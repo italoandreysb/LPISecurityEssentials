@@ -34,3 +34,6 @@ Os programas de RECOMPENSA POR VULNERABILIDADE (BUG BOUNTY) São iniciativas de 
 Quando os profissionais de segurança descobrem uma vulnerabilidade, em muitos casos, trabalhar de perto com a organização afetada, fornecendo informações detalhadas e suporte no desenvolvimento de uma correção, **é a atitude mais responsável a ser tomada**.
 
 # Manuseio de Informações Confidenciais
+
+Leis de privacidade como o GDPR e o CCPA estabelecem diretrizes detalhadas sobre
+como os dados pessoais devem ser coletados, processados, armazenados e compartilhados
